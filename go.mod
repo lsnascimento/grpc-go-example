@@ -1,4 +1,4 @@
-module github.com/lsnascimento/hello_grpc
+module github.com/lsnascimento/grpc-go-example
 
 go 1.23.1
 
